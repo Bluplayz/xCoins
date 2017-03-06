@@ -1,0 +1,9 @@
+#Datatypes: [MySQL, Files]
+DataType: MySQL
+#MySQL Data
+MySQL:
+  Address: "localhost"
+  Port: 3306
+  Username: "root"
+  Password: "12345"
+  Database: "coins"

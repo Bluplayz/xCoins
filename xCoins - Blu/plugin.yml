@@ -1,0 +1,12 @@
+name: xCoins
+main: de\bluplayz\Coins\Coins
+api: 1.0.0
+version: 1.0.0
+author: Bluplayz
+permissions:
+ coins.add:
+  description: "Allows the user to add coins to himself or a specific player"
+  default: op
+ coins.set:
+  description: "Allows the user to set the coins from himself or a specific player"
+  default: op
